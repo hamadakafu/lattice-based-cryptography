@@ -1,0 +1,13 @@
+[package]
+name = "lattice-based-cryptography"
+version = "0.1.0"
+authors = ["hamadakafu <kafu.h1998@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+num = "*"
+rand = "*"
+rand_distr = "*"
+itertools = "*"
